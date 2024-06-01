@@ -1,0 +1,12 @@
+[
+	{
+      "name": "\u041c\u0410\u0422\u0420\u0415\u0428\u041a\u0410\u0020\u004d\u004f\u0042\u0049\u004c\u0045\u0020\u0023\u0031",
+	  "color": "ff368418",
+	  "status": 0
+	  "recommend": true,
+	  "newstatus": false,
+      "edgar_host": "141.94.184.108",
+      "edgar_port": 1481,
+      "id": 1
+	}
+[
